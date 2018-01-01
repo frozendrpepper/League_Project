@@ -6,6 +6,10 @@ app = Flask(__name__)
 
 league_logistic = pickle.load(open('league_lr.pkl', 'rb'))
 
+@app.route('/')
+def say_hello():
+    print('Welcome to League Predictor')
+
 @app.route('/league', methods = ['POST'])
 def make_predict():
     #get_json parses the incoming JSON request data and returns it.
