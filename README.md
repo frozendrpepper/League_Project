@@ -1,4 +1,4 @@
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwEPBH8FPQu85NOndl9heuxcYDZhj4-gFMY6INTDa5nbV8sLMd)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnB-SU3-O8yXNBMxIp5t5AqMhIpGZsg8myl51SKnKF3kY5wwAuKQ)
 
 # League of Legends game winner prediction at 15 minutes
 
