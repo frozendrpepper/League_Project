@@ -1,4 +1,4 @@
-![alt text](https://lolstatic-a.akamaihd.net/frontpage/apps/prod/playnowglobal/en_US/f1896aaffe69e2fec207246d8b7e0b5ff3a378ba/assets/img/lol-logo.png)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwEPBH8FPQu85NOndl9heuxcYDZhj4-gFMY6INTDa5nbV8sLMd)
 
 # League of Legends game winner prediction at 15 minutes
 
